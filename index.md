@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Alex Peterson's first CS193 Lab
+
+## Favorable Aspects of CS193
+- Cool people in the section
+- The instructors for the course are helpful
+- Still don't know the extent of what we'll learn in this class. How exciting!
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
